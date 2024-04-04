@@ -29,11 +29,9 @@ Leider gibt es derzeit keine Möglichkeit zur Mitarbeit. Falls Sie Probleme erle
 
 >Name: Sarah Berger\
 E-mail.: `s52969@edu.campus02.at`\
-Studium: Business Software Devlopment, Campus 02\
-> GitHub: SarahBerger14
-
-Link zu GitHub: https://github.com/SarahBerger14 \
-Link zu FH Campus02: https://www.campus02.at
+Studium: Business Software Devlopment, [Campus 02](https://www.campus02.at)\
+> GitHub: [SarahBerger14](https://github.com/SarahBerger14)
+ 
 
 ## Link zu den Übungen
 >[Exercise1](exercise1.md)\
