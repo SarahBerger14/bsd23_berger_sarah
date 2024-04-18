@@ -39,3 +39,5 @@ Es wird die Markdown Syntax gelernt.
 > 
 >[Exercise2](exercise2.md)\
 > Hier wird Git gelernt. Ebenso werden Git Befehle beschrieben.
+> >[Exercise3](exercise3.md)\
+> Hier wurde gelernt, wie man mit Maven umgeht.

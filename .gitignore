@@ -8,6 +8,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Ignore src directory
+/src/
+
 # Ignore IntelliJ IDEA files
 .idea/
 .idea/modules.xml
