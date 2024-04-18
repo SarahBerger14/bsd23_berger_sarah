@@ -3,6 +3,8 @@ package at.campus02.bsd;
 public class Main {
     public static void main(String[] args) {
 
+        System.out.println("Sarah Berger");
+
         double resultAdd = Calculator.add(5.5, 2.8);
         System.out.println("Addition: " + resultAdd);
 

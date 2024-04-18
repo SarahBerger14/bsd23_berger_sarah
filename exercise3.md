@@ -38,3 +38,6 @@ Im Ordner "bsd" sind meine Java-Klassen (Main und Calculator) als kompilierte Da
 ## Mvn compile - Main-Klasse ausführen
 <img src="resources/images/ex3_2.png" alt="Main-Klasse" style= "width: 40%"></p>
 
+## mvn exec:java
+<img src="resources/images/ex3_3.png" alt="mvn exec:java" style= "width: 40%"></p>
+
