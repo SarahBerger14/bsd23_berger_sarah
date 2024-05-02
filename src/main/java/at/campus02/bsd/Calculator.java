@@ -18,4 +18,7 @@ return number1/number2;
 return number1*number2;
     }
 
+    public static double factorial() {
+        return 0;
+    }
 }

@@ -8,3 +8,6 @@ Die division durch 0 wurde noch nicht getestet da diese noch nicht implementiert
 
 ## Test coverage
 <img src="resources/images/ex4_1.png" alt="Tests" style= "width: 70%"></p>
+
+## TDD
+<img src="resources/images/ex4_2.png" alt="TDD" style= "width: 70%"></p>
