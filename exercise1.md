@@ -2,7 +2,7 @@
 
 ## Meine Katze
 
-<img src="resources/images/ex1_1.jpg" alt="Katze" width="200" height="300" />
+![Katze](resources/images/ex1_1.jpg)
 
 >**Steckbrief:**\
  *Name*: Gatze\

@@ -27,7 +27,8 @@ Nachgeschaut alles funktioniert hat mit den Umgebenungsvariabekn. Danach wurde e
 Im zuge dessen wurde exercise3.md erstellt.
 
 ## Neuer Ordner
-<img src="resources/images/ex3_1.png" alt="Neuer_Ordner" style= "width: 40%"></p>
+![Ordner](resources/images/ex3_1.png)
+
 
 Im Screenshot ist zu erkennen, dass ein neuer Ordner namens "target" erstellt wurde, der rot eingekreist ist.
 Zusätzlich dazu sind zwei Unterordner zu sehen. Im Ordner "generated-source" befindet sich ein weiterer Ordner namens "annotations".
@@ -36,8 +37,8 @@ Innerhalb des "campus02"-Ordners liegt wiederum der Ordner "bsd" (repräsentiert
 Im Ordner "bsd" sind meine Java-Klassen (Main und Calculator) als kompilierte Dateien mit .class.
 
 ## Mvn compile - Main-Klasse ausführen
-<img src="resources/images/ex3_2.png" alt="Main-Klasse" style= "width: 40%"></p>
+![Compile](resources/images/ex3_2.png)
 
 ## mvn exec:java
-<img src="resources/images/ex3_3.png" alt="mvn exec:java" style= "width: 40%"></p>
+![Java](resources/images/ex3_3.png)
 

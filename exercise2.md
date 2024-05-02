@@ -19,8 +19,7 @@ Nun werden die Git Befehle erklärt, welche im Aufgabenblatt stehen.
 * Dies ist eine Konfigurationsdatei.
 * Es werden zuvor festgelegte Ordner, Dateien, Verzeichnisse oder Muster ausgeschlossen, wenn Änderungen an das Repository gesendet werden.
 
-
-  <img src="resources/images/ex2_1.jpg" alt=".gitignore" style= "width: 50%"></p>
+![Gitignore](resources/images/ex2_1.jpg)
 
 **git config**
 * Ist dafür da, Git bei der ersten Verwendung zu konfigurieren.
@@ -71,8 +70,7 @@ MacOS:
 
 Ein anderer Fehler, der mir passiert ist, dass ich .git am Ende der URL vergessen habe.
 
-<img src="resources/images/ex2_2.jpg" alt="fehler" style= "width: 50%"></p>
- 
+![Fehler](resources/images/ex2_2.jpg)
 ## Tabelle mit den Befehlen
 In folgender Tabelle, stehen die Befehle, die ich für diese Übung benötigt habe.
 Zudem schreibe ich dazu, ob ich diese öfters verwendet habe.
