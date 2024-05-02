@@ -42,3 +42,6 @@ Es wird die Markdown Syntax gelernt.
 >
 >[Exercise3](exercise3.md)\
 > Hier wurde gelernt, wie man mit Maven umgeht.
+> >
+>[Exercise4](exercise4.md)\
+> Hier wurde gelernt, wie man mit JUnit umgeht.
