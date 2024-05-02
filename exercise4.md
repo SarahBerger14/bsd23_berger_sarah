@@ -17,3 +17,6 @@ Wenn man noch nichts schreibt in die Methode außer return 0 und aber dann einen
 reinschreibt, sieht es so aus:
 <img src="resources/images/ex4_2.2.png" alt="TDD" style= "width: 70%"></p>
 
+## TDD-final
+Wenn man die Methode schreibt sieht es so aus:
+<img src="resources/images/ex4_3.png" alt="TDD" style= "width: 70%"></p>
