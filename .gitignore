@@ -49,3 +49,6 @@ build/
 # Ignore PDF and HTML files
 *.pdf
 *.html
+
+# Ignore .log files
+*.log
