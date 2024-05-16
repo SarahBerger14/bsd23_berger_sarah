@@ -52,3 +52,10 @@ build/
 
 # Ignore .log files
 *.log
+
+# Ignore Log4j2 configuration file
+log4j2.xml
+
+# Ignore log files
+logs/
+myapp.log

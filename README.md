@@ -45,3 +45,8 @@ Es wird die Markdown Syntax gelernt.
 > >
 >[Exercise4](exercise4.md)\
 > Hier wurde gelernt, wie man mit JUnit umgeht.
+
+
+## Link zu Template Dateien
+>[Template zu exercise5](log4j2.xml.template)\
+> Um die Konfigurationen zu verwenden bitte die endung .template entfernen und einen Ordner namens logs erstellen.
