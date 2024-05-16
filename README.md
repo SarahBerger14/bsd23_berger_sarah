@@ -42,9 +42,12 @@ Es wird die Markdown Syntax gelernt.
 >
 >[Exercise3](exercise3.md)\
 > Hier wurde gelernt, wie man mit Maven umgeht.
-> >
+> 
 >[Exercise4](exercise4.md)\
 > Hier wurde gelernt, wie man mit JUnit umgeht.
+> 
+> [Exercise5](exercise5.md)\
+> Hier wird mit log4j gearbeitet.
 
 
 ## Link zu Template Dateien
