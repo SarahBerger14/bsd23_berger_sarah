@@ -9,7 +9,7 @@ target/
 !**/src/test/**/target/
 
 # Ignore src directory
-/src/
+/src/main/resources/
 
 # Ignore IntelliJ IDEA files
 .idea/
