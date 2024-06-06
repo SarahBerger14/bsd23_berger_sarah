@@ -48,6 +48,9 @@ Es wird die Markdown Syntax gelernt.
 > 
 > [Exercise5](exercise5.md)\
 > Hier wird mit log4j gearbeitet.
+> 
+> [Exercise6](exercise6.md)\
+> Hier wird die dokumentation gelernt.
 
 
 ## Link zu Template Dateien
