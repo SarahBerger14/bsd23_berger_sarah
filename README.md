@@ -54,5 +54,5 @@ Es wird die Markdown Syntax gelernt.
 
 
 ## Link zu Template Dateien
->[Template zu exercise5](log4j2.xml.template)\
+>[Template zu exercise5](src/main/resources/log4j2.xml.template)\
 > Um die Konfigurationen zu verwenden bitte die endung .template entfernen und einen Ordner namens logs erstellen.

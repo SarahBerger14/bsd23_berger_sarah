@@ -8,9 +8,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-# Ignore src directory
-/src/main/resources/
-
 # Ignore IntelliJ IDEA files
 .idea/
 .idea/modules.xml
@@ -54,7 +51,7 @@ build/
 *.log
 
 # Ignore Log4j2 configuration file
-log4j2.xml
+src/main/resources/log4j2.xml
 
 # Ignore log files
 logs/
